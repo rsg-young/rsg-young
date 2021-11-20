@@ -2,8 +2,8 @@
 <h3 align="center">Student of WebApp and Web Exploitation from Brazil</h3>
 
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsg-young&show_icons=true&theme=synthwave" alt="rsg-young" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsg-young&show_icons=true&theme=synthwave&layout=compact" alt="rsg-young" /> </p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rilondev&show_icons=true&theme=synthwave" alt="rilondev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rilondev&show_icons=true&theme=synthwave&layout=compact" alt="rilondev" /> </p>
 
 ##
 
@@ -27,13 +27,11 @@
  
 <p align="left">
 <a href="https://twitter.com/_somethingz" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_somethingz"/></a>
-<a href="https://instagram.com/rillxn.g" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rillxn.g"/></a>
-<a href="https://discord.gg/r.young#7640" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="r.young#7640"/></a>
 <a href="https://t.me/ryoung" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ryoung"/></a>
 <a href = "mailto:rilon.santos@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:rilon@protonmail.com"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </p>
 
-![Snake animation](https://github.com/rsg-young/rsg-young/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rilondev/rilondev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
